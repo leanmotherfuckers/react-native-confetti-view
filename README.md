@@ -1,5 +1,7 @@
 # Confetti View
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/includable/react-native-confetti-view.svg)](https://greenkeeper.io/)
+
 ![Screenshot](screenshot.png)
 
 
